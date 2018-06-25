@@ -6,7 +6,7 @@ const fs = require('fs');
 const getYoutubeID = require('get-youtube-id');
 const fetchVideoInfo = require('youtube-info');
 
-const yt_api_key = "PzwTNzahyq6Dzt3CGMQ7iEGV__rGEU6p";
+const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";
 const prefix = '+';
 const discord_token = "TOKEN";
 client.login(discord_token);
